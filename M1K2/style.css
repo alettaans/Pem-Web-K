@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #000; /* warna teks*/
+    justify-content: center;
+    padding: 120px ;
+    font-weight: bold;
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+.mahasiswa-table {
+    width: 100%;
+    border-collapse:separate;
+    background-color: #FFD700;
+
+}
+
+.mahasiswa-table th,
+.mahasiswa-table td {
+    border: 1px solid #000; /* border 1px solid */
+    padding: 5px;
+    text-align: center;
+}
+.mahasiswa-table th {
+    background-color: #FFD700;
+}
